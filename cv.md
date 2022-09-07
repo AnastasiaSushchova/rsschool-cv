@@ -13,3 +13,22 @@ I have been working as an accountant for 4 years. My job teach me to be reliable
 * JavaScript (Basic)
 * Git
 * Figma
+### Code examples 
+```
+function multiply(a, b) {
+  return a + b;
+}
+```
+### Experience
+* Minsk Central Customs - accountant
+* RSSchool - Front-End Developer 
+### Education
+* BELARUS STATE ECONOMIC UNIVERSITY
+    + Faculty of Accounting and Economics
+ * TeachMeSkils
+    + UX\UI designer
+ * RSSchool
+    + Front-End Developer
+### Languages 
+* ***Russian*** - native
+* ***English*** - A2
